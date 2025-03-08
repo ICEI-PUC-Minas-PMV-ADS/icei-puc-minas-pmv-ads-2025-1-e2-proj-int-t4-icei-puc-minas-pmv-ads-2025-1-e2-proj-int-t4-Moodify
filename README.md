@@ -1,23 +1,27 @@
-# TÍTULO DO PROJETO
+# Moodify
 
-`CURSO`
+`Tecnologia em Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`2º Semestre/2025`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Moodify é um sistema inteligente de recomendação musical que sugere playlists personalizadas com base no estado emocional do usuário. Utilizando tecnologias de inteligência artificial e análise de dados, o projeto busca identificar o humor do usuário por meio de interações simples e, a partir disso, fornecer uma experiência musical adaptada às suas emoções.
+
+A proposta visa preencher uma lacuna existente nas plataformas de streaming tradicionais, que geralmente baseiam suas recomendações apenas no histórico de reprodução. Com o Moodify, o usuário terá acesso a uma curadoria musical mais intuitiva e personalizada, proporcionando momentos mais imersivos e alinhados ao seu estado emocional no dia a dia.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+- Arthur Silva Araujo
+- Déborah de Faria Vilaça
+- Pâmella Almeida da Silva
+- Railan da Silva Leão
+- Virgilio Parreiras Campos Zenith
+- Wesley da Silva Teixeira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Carlos Alberto Pietrobon
 
 ## Instruções de utilização
 
