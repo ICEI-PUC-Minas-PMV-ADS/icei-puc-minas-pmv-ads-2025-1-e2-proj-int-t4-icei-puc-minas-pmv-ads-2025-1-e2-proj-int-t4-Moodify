@@ -57,16 +57,36 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário avalie uma agência de intercâmbio com base na sua experiência| ALTA | 
-|RF-002| A aplicação deve permitir que o usuário inclua comentários ao fazer uma avaliação de uma agência de intercâmbio    | ALTA |
-|RF-003| A aplicação deve permitir que o usuário consulte todas as agências de intercâmbio cadastradas ordenando-as com base em suas notas | ALTA |
+|RF-001|O sistema deve permitir que o usuário selecione um estado emocional (ex: feliz, triste, relaxado, motivado)| ALTA | 
+|RF-002| O aplicativo deve integrar com plataformas como Spotify, Apple Music, Deezer entre outros para reproduzir as músicas recomendadas | ALTA |
+|RF-003| O aplicativo deve permitir que os usuários se cadastrem com um e-mail e senha | ALTA |
+|RF-004| O aplicativo deve ter um sistema para que o usuário possa informar seu humor atual (ex: "feliz", "triste", "ansioso", etc.)| ALTA |
+|RF-005| O sistema deve exibir uma playlist correspondente ao humor selecionado | ALTA |
+|RF-006| O aplicativo deve permitir que o usuário escute as músicas diretamente no app, com controle básico de reprodução (play, pause, skip, volume) | ALTA |
+|RF-007| O usuário deve poder sugerir músicas para cada categoria | MEDIA |
+|RF-008| O app pode enviar notificações para sugerir novas playlists ou músicas com base em mudanças de humor do usuário ao longo do tempo | ALTA |
+|RF-009| O sistema deve armazenar as músicas sugeridas em um banco de dados | ALTA |
+|RF-010| O usuário deve poder acessar o aplicativo via desktop e mobile | MEDIA |
+|RF-011| O aplicativo deve permitir que o usuário dê feedback sobre as sugestões de música, ajudando o sistema a aprender e melhorar as recomendações | ALTA |
+|RF-012| O aplicativo deve armazenar um histórico de musicas ou playlists que o usuário ouviu, para que ele possa voltar a elas quando quiser | MEDIA |
+|RF-013| O sistema deve permitir a seleção de cantores, gêneros e estilos musicais | MEDIA |
+|RF-014| O sistema deve exibir frases motivacionais ou reflexivas de acordo com o humor selecionado | BAIXA |
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ter uma interface intuitiva e responsiva | MÉDIA | 
+|RNF-002| As respostas do back-end devem ser rápidas para garantir boa usabilidade |  ALTA | 
+|RNF-003| O sistema deve ser compatível com futuras integrações com serviços de streaming |  MEDIA| 
+|RNF-004| O aplicativo deve ser capaz de lidar com falhas temporárias, como perda de conexão com a internet ou falhas no serviço de streaming, sem fechar ou travar completamente|  ALTA | 
+|RNF-005| O sistema deve ser capaz de lidar com um grande número de usuários simultâneos, sem comprometer a performance do aplicativo |  ALTA | 
+|RNF-006| O aplicativo deve armazenar as preferências e playlists do usuário de forma segura na nuvem, garantindo a recuperação em caso de troca de dispositivo |  MEDIA | 
+|RNF-007| O aplicativo deve coletar dados de uso (respeitando a privacidade) para melhorar as sugestões com base no comportamento do usuário |  BAIXA | 
+|RNF-008| O aplicativo deve ser projetado para funcionar bem em smartphones (Android e iOS) e também em tablets |  ALTA | 
+
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -89,8 +109,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O primeiro MVP não terá integração com APIs externas como Spotify e YouTube.|
+|02| Apenas músicas cadastradas no banco de dados poderão ser recomendadas inicialmente.|
+|03| O app deve ser leve e não consumir muitos recursos do dispositivo do usuário.|
+|04| Algumas funcionalidades, como streaming de música, exigirão conexão com a internet.|
+|05| Se o app tiver um modo offline, deve haver um limite para o armazenamento de dados no dispositivo.|
+|06| O app deve funcionar corretamente em diferentes modelos de smartphones, podendo ter variações de desempenho.|
+
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
