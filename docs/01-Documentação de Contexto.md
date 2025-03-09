@@ -27,7 +27,7 @@ O impacto da música no bem-estar emocional é amplamente reconhecido por estudo
 
 É nesse contexto que o Moodify se justifica: como uma solução inovadora que vai além das recomendações tradicionais, integrando a interação ativa do usuário e técnicas avançadas de inteligência artificial para capturar e interpretar o humor em tempo real. Ao permitir que os ouvintes contribuam de forma direta para as recomendações, o Moodify oferece uma experiência mais personalizada e engajadora, promovendo não apenas a descoberta de novas músicas, mas também uma conexão mais profunda entre a música e as emoções.
 
-Além disso, o projeto possui um grande potencial de aplicação em diversas áreas, incluindo entretenimento e saúde mental. Por exemplo, o Moodify pode ser utilizado como uma ferramenta complementar no tratamento de ansiedade e depressão, ajudando as pessoas a regularem suas emoções por meio de playlists cuidadosamente adaptadas ao seu estado psicológico. Dessa forma, o Moodify não apenas melhora a experiência musical, mas também contribui para o bem-estar emocional dos usuários.
+Além disso, o projeto possui um grande potencial de aplicação em diversas áreas, incluindo entretenimento e saúde mental. Por exemplo, o Moodify pode ser utilizado como uma ferramenta complementar no tratamento de ansiedade e depressão, ajudando as pessoas a regularem suas emoções por meio de playlists cuidadosamente adaptadas ao seu estado psicológico. Dessa forma, o Moodify não apenas melhora a experiência musical, mas também contribui para o bem-estar emocional dos usuários. 
 
 ## Público-Alvo
 
