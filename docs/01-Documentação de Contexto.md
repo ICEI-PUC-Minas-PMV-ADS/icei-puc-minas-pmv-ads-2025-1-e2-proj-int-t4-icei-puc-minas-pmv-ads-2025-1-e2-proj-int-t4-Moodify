@@ -23,9 +23,11 @@ Objetivos Específicos
 
 ## Justificativa
 
-O impacto da música no bem-estar emocional é amplamente reconhecido por estudos científicos, que demonstram sua influência no alívio do estresse, aumento da motivação e regulação emocional. No entanto, a maioria das plataformas de streaming ainda não explora plenamente o potencial da inteligência artificial para oferecer recomendações verdadeiramente adaptadas ao humor do usuário.
+O impacto da música no bem-estar emocional é amplamente reconhecido por estudos científicos, que demonstram sua influência no alívio do estresse, aumento da motivação e regulação emocional. No entanto, apesar do avanço das plataformas de streaming, a maioria ainda não explora plenamente o potencial da inteligência artificial para oferecer recomendações verdadeiramente adaptadas ao humor e às necessidades emocionais do usuário. Atualmente, os algoritmos dependem principalmente do histórico de reprodução, o que resulta em sugestões muitas vezes repetitivas ou pouco alinhadas com o estado emocional do momento.
 
-O Moodify se justifica pela necessidade de um sistema que vá além das recomendações baseadas apenas no histórico de reprodução e que traga uma experiência mais personalizada e interativa. Além disso, o projeto possui grande potencial de aplicação tanto para entretenimento quanto para áreas como saúde mental, auxiliando pessoas que buscam melhorar seu humor por meio da música.
+É nesse contexto que o Moodify se justifica: como uma solução inovadora que vai além das recomendações tradicionais, integrando a interação ativa do usuário e técnicas avançadas de inteligência artificial para capturar e interpretar o humor em tempo real. Ao permitir que os ouvintes contribuam de forma direta para as recomendações, o Moodify oferece uma experiência mais personalizada e engajadora, promovendo não apenas a descoberta de novas músicas, mas também uma conexão mais profunda entre a música e as emoções.
+
+Além disso, o projeto possui um grande potencial de aplicação em diversas áreas, incluindo entretenimento e saúde mental. Por exemplo, o Moodify pode ser utilizado como uma ferramenta complementar no tratamento de ansiedade e depressão, ajudando as pessoas a regularem suas emoções por meio de playlists cuidadosamente adaptadas ao seu estado psicológico. Dessa forma, o Moodify não apenas melhora a experiência musical, mas também contribui para o bem-estar emocional dos usuários.
 
 ## Público-Alvo
 
